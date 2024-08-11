@@ -59,14 +59,14 @@ Shortlists for interviews began coming in around August 1. I was shortlisted for
 Day 1 was divided into two slots. If you get selected in the first, you don't proceed to the second.
 
 ### My Slot 1 Preferences
-Citadel (SWE)
-WorldQuant
-Glean
-Goldman Sachs
+- Citadel (SWE)
+- WorldQuant
+- Glean
+- Goldman Sachs
 ### My Slot 2 Preferences
-Qube
-Ebullient Securities
-Eightfold AI
+- Qube
+- Ebullient Securities
+- Eightfold AI
 ### The Dilemma
 Before the day began, I faced a dilemma—whether to intentionally skip the Goldman Sachs interview or not. The options in Slot 2 seemed more appealing to me. I consulted with several seniors, and they advised me to consider skipping it but also to keep safety in mind. It was a tough decision to make right before Day 1.
 
@@ -106,7 +106,7 @@ Later, I found out that I was among nine candidates, and WorldQuant had to selec
 
 # The Result
 
-What followe was intense discussion of WorldQuant HR and the Interviews discussion in a room, We were relaxing in the next room and had our ears in the wall trying to listen what they were discussing, but weren't abble to decode.
+What followed was intense discussion of WorldQuant HR and the Interviews discussion in a room, We were relaxing in the next room and had our ears in the wall trying to listen what they were discussing, but weren't abble to decode.
 
 Still then I opened up my Portal I got an Offer from WorldQuant. 
 Was waiting for Citadel, but it didnt came..

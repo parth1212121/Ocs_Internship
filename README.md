@@ -1,4 +1,4 @@
-# OCS_Internship
+# OCS Internship Journey
 
 The Repository has all the details about my Journey of the OCS Internship Drive.
 

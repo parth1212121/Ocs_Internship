@@ -25,11 +25,12 @@ Realizing the importance of Data Structures and Algorithms (DSA), I added NeetCo
 In the later phase, I spent two weeks reading OOPS articles on GeeksforGeeks and preparing my CV.
 
 ### Summary of My Preparation Journey
-Completed all three recommended books, "PuzzledQuant," and "Brain Teasers."
-Gave significant effort to CP, though my rating remained around 1500.
-Solved around 200 problems on NeetCode.
-Reviewed Computer Architecture (memory-related topics) and Probability distributions.
-Managed an online research internship alongside, as part of a team project.
+- Completed all three recommended books, "PuzzledQuant," and "Brain Teasers."
+- Gave significant effort to CP, though my rating remained around 1500.
+- Solved around 200 problems on NeetCode.
+- Reviewed Computer Architecture (memory-related topics) and Probability distributions.
+- Managed an online research internship alongside, as part of a team project.
+
 Despite not being overly confident in securing a Quant role, I felt my decent CGPA and coding abilities ensured a good shot at software roles. I returned to college 10 days before the official date to acclimate to the atmosphere, anticipating the intense period ahead.
 
 
